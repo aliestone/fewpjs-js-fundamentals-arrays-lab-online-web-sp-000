@@ -4,5 +4,5 @@ prepend = ["Milo", "Otis", "Garfield"],
 removeLast = ["Milo", "Otis", "Garfield"].pop
 removeFirst = ["Milo", "Otis", "Garfield"];
 
-apend.push("Odie");
+append.push("Odie");
 prepend.unshift ("Odie");
